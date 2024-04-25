@@ -40,7 +40,7 @@ Realize uma pesquisa sobre os seus potenciais usuários considerando as alternat
 **Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
 
 ## 2. Perfil do usuário (Até dia 18/04)
-   Perfil do usuario: [Perfil do usuario](PerfilDoUsuario.pdf)
+   Perfil do usuario:[Perfil do usuario.pdf](https://github.com/GustavinFromSdleks/Seven/blob/main/PerfilDoUsario.pdf)
 
 ***2.1. Descrição dos Usuários: Personas***
 
